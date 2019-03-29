@@ -2,5 +2,6 @@
   "host": "http://203.154.83.174",
   "host_for_buy": "http://203.154.83.174",
   "host_for_check_key": "http://203.154.83.174/check_key_api",
-  "host_for_check_ip": "http://203.154.83.174/check_ip_api"
+  "host_for_check_ip": "http://203.154.83.174/check_ip_api",
+  "host_for_download": "http://203.154.83.174/get_link_api"
 }
