@@ -3,5 +3,6 @@
   "host_for_buy": "https://test-get.ml",
   "host_for_check_key": "https://test-get.ml/check_key_api",
   "host_for_check_ip": "https://test-get.ml/check_ip_api",
-  "host_for_download": "https://test-get.ml/get_link_api"
+  "host_for_download": "https://test-get.ml/get_link_api",
+  "script_version": "1.0"
 }
