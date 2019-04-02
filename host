@@ -4,5 +4,6 @@
   "host_for_check_key": "https://www.dev-tarchi.ga/check_key_api",
   "host_for_check_ip": "https://www.dev-tarchi.ga/check_ip_api",
   "host_for_download": "https://www.dev-tarchi.ga/get_link_api",
-  "script_version": "1.0"
+  "script_version": "1.0",
+  "file_script": "install_v_1.0.sh"
 }
