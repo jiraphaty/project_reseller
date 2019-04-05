@@ -8,5 +8,7 @@
   "credit_text": "Made by Jiraphat Yuenying",
   "credit_check": "Jiraphat Yuenying",
   "script_version": "1.0",
-  "file_script": "install_v_1.0.sh"
+  "file_script": "install_v_1.0.sh",
+  "encrypt_index": "<h1>This Script made by Jiraphat Yuenying</h1>",
+  "encrypt_file": "<p>File was Encrypted!!!</p>"
 }
