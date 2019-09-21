@@ -10,6 +10,6 @@
   "credit_check": "TARCHI",
   "script_version": "1.0",
   "file_script": "install_v_1.0.sh",
-  "encrypt_index": "<h1>This Script made by Jiraphat Yuenying</h1>",
+  "encrypt_index": "<h1>This Script made by <a href="https://www.dev-tarchi.ga">TARCHI</a></h1>",
   "encrypt_file": "<p>File was Encrypted!!!</p>"
 }
