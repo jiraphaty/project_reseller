@@ -1,5 +1,6 @@
 {
   "host": "https://www.dev-tarchi.ga",
+  "switch_check": "on",
   "host_for_buy": "https://www.dev-tarchi.ga",
   "host_for_check_key": "https://www.dev-tarchi.ga/check_key_api",
   "host_for_check_ip": "https://www.dev-tarchi.ga/check_ip_api",
